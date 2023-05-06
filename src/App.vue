@@ -8,7 +8,7 @@
     <section>
         <div class="flex flex-col gap-2 w-full items-center mt-4">
             <h2 class="font-bold text-[22px] sm:text-[32px]">Destaques</h2>
-            <p class="text-[18px] sm:[text-20px] text-center text-[#474747]">Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado. </p>
+            <p class="text-[16px] sm:[text-20px] text-center text-[#474747]">Frete grátis e chinelo de brinde é aqui, aproveite por tempo limitado. </p>
         </div>
     </section>
     <div class="flex justify-center">
